@@ -14,7 +14,7 @@ This project demonstrates an analytics dashboard created using Power BI to visua
 ## Screenshots and Insights
 
 ### 1. Overview Page
-![Overview](Overview .png)
+[![Overview](Overview .png)](https://github.com/Abdulrahman-hussen/Track-Social-Media-Performance-Metrics-for-2024-_Power_BI/blob/main/Overview%20.png)
 
 **Analysis:**
 - Total Views: 4.95M, Likes: 2.62M, Comments: 1.02M, and Shares: 494.3K.

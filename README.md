@@ -14,7 +14,7 @@ This project demonstrates an analytics dashboard created using Power BI to visua
 ## Screenshots and Insights
 
 ### 1. Overview Page
-[![Overview](Overview .png)](https://github.com/Abdulrahman-hussen/Track-Social-Media-Performance-Metrics-for-2024-_Power_BI/blob/main/Overview%20.png)
+![Overview](https://github.com/Abdulrahman-hussen/Track-Social-Media-Performance-Metrics-for-2024-_Power_BI/blob/main/Overview%20.png)
 
 **Analysis:**
 - Total Views: 4.95M, Likes: 2.62M, Comments: 1.02M, and Shares: 494.3K.
@@ -24,7 +24,7 @@ This project demonstrates an analytics dashboard created using Power BI to visua
 ---
 
 ### 2. Views and Revenue Analysis
-![Views and Revenue](images/views_and_revenue.png)
+![Views and Revenue](https://github.com/Abdulrahman-hussen/Track-Social-Media-Performance-Metrics-for-2024-_Power_BI/blob/main/PaPlatform_Performancege%20.png)
 **Analysis:**
 - Platforms with the highest revenue: YouTube ($1.87M), Instagram ($1.82M), and TikTok ($1.69M).
 - Despite lower engagement on LinkedIn, its revenue ($1.57M) is comparable to TikTok and Instagram, suggesting better conversion rates or higher ad prices.
@@ -33,7 +33,8 @@ This project demonstrates an analytics dashboard created using Power BI to visua
 ---
 
 ### 3. Ad Spend vs Revenue
-![Ad Spend](images/ad_spend.png)
+![Ad Spend](https://github.com/Abdulrahman-hussen/Track-Social-Media-Performance-Metrics-for-2024-_Power_BI/blob/main/Ad%20Spend%20vs%20Revenue.png)
+
 **Analysis:**
 - Total Ad Spend: $1.20M compared to Total Revenue: $10.13M, indicating a strong ROI.
 - October has the highest revenue, likely due to seasonal marketing or viral campaigns.
